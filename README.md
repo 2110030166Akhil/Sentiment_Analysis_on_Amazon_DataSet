@@ -21,9 +21,6 @@ The dataset used in this project is the Amazon Kindle customer review dataset. I
 - `reviewText`: Text of the review
 - `overall`: Rating given by the customer (1-5 stars)
 
-### Dataset Source
-The dataset can be downloaded from [Amazon Customer Reviews Dataset](https://registry.opendata.aws/amazon-reviews/).
-
 ## Installation
 To set up the environment for running the sentiment analysis, you need to have R installed along with several R packages.
 
