@@ -1,5 +1,4 @@
 # Sentiment_Analysis_on_Amazon_DataSet
-Sure! Below is a README file tailored to your R-based sentiment analysis project using the provided script.
 
 ---
 
@@ -92,13 +91,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at:
-- Email: palukuriakhil1@gmail.com(mailto:your-email@example.com)
-- GitHub: 2110030166Akhil(https://github.com/yourusername)
+- Email: palukuriakhil1@gmail.com
+- GitHub: 2110030166Akhil
 
 ---
 
