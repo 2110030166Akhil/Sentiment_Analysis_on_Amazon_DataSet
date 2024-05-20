@@ -1,8 +1,5 @@
 # Sentiment_Analysis_on_Amazon_DataSet
 
----
-
-# Sentiment Analysis on Amazon Kindle Reviews
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -11,7 +8,6 @@
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
